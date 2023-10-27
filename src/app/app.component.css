@@ -1,0 +1,27 @@
+.violet{
+    background-color: violet;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.ocean{
+    background-color: skyblue;
+    width: 500px; height: 400px;
+    font-family: Tahoma;
+    color:red;
+}
+.forest{
+    background-color: green;
+    width: 500px; height: 400px;
+    font-family: 'Helvetica';
+    color: red;
+}
+.cloud{
+    background-color:blueviolet;
+    width: 500px; height: 400px;
+    font-family: 'Fantasy';
+    color: red;
+}
